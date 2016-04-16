@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Randomizer TSA</string>
+    <string name="btn_tap_here">TAP HERE</string>
+    <string name="text_arrow_left">Arrow left</string>
+    <string name="text_arrow_right">Arrow right</string>
+</resources>
